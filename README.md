@@ -72,7 +72,7 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting. 
 
-View my notebook with detailed steps here: [05.02 Skills_Demand.ipynb](./05.02.%20Skills_Demand.ipynb)
+View my notebook with detailed steps here: [02. Skills_Demand.ipynb](./Capstone%20Project/02.%20Skills_Demand.ipynb)
 
 ### Visualize Data
 
@@ -110,7 +110,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the SEA region Job Postings](./images/skills_demand_all_data_roles.png)
+![Likelihood of Skills Requested in the SEA region Job Postings](./Capstone%20Project/images/skills_demand_all_data_roles.png)
 
 
 *Bar graph visualizing the likelihood of top 5 skills required in job postings of top 3 data roles in the SEA region*
@@ -125,7 +125,7 @@ plt.show()
 
 To find how data skills are trending in 2023 for Data Analysts, only data analyst positions are filtered and a pivot table was created with months of job postings on the row and skills on the column. The outcome is a table depicting top 5 skills of data analysts by month, showing how likely are the top skills going to be required in job postings throughout 2023.
 
-View my notebook with detailed steps here: [05.03 Skills_Trend.ipynb](./05.03.%20Skills_Trend.ipynb)
+View my notebook with detailed steps here: [03. Skills_Trend.ipynb](./Capstone%20Project/03.%20Skills_Trend.ipynb)
 
 ### Visualize Data
 
@@ -161,7 +161,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the SEA region](/05.%20Capstone%20Project/images/Skills_Trend_DA_SEA.png)  
+![Trending Top Skills for Data Analysts in the SEA region](/Capstone%20Project/images/Skills_Trend_DA_SEA.png)  
 *Bar graph visualizing the trending top skills for data analysts in the SEA region in 2023.*
 
 ### Insights:
@@ -175,7 +175,7 @@ plt.show()
 ### Salary Distributions of the top 6 popular jobs in SEA countries
 To identify the highest-paying roles and skills, only jobs in the SEA countries were chosen and the median salary were calculated. But first, in order to get an idea of which jobs are paid the most, the salary distributions of the most common data jobs in the SEA region will be calculated.
 
-View my notebook with detailed steps here: [05.04 Salary_Analysis.ipynb](./05.04.%20Salary_Analysis.ipynb)
+View my notebook with detailed steps here: [04. Salary_Analysis.ipynb](./Capstone%20Project/04.%20Salary_Analysis.ipynb)
 
 #### Visualize Data 
 
@@ -200,7 +200,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in SEA countries](/05.%20Capstone%20Project/images/Salary_Distributions_SEA.png)  
+![Salary Distributions of Data Jobs in SEA countries](/Capstone%20Project/images/Salary_Distributions_SEA.png)  
 *Box plot visualizing the salary distributions for the top 6 data job titles across countries in the SEA region.*
 
 #### Insights
@@ -262,7 +262,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](/05.%20Capstone%20Project/images/Top_Pay_vs_In_Demand.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](/Capstone%20Project/images/Top_Pay_vs_In_Demand.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights:
@@ -277,7 +277,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 
 To identify the most optimal skills to learn (the ones that are the highest paid and the highly sought-after), the percent of skill demand and the median salary of these skills were calculated so as to easily identify which are the most optimal skills to learn as Data Analysts working in SEA countries. 
 
-View my notebook with detailed steps here: [05.05 Optimal_Skills.ipynb](./05.05.%20Optimal_Skills.ipynb).
+View my notebook with detailed steps here: [05. Optimal_Skills.ipynb](./Capstone%20Project/05.%20Optimal_Skills.ipynb).
 
 #### Visualize Data
 
@@ -292,7 +292,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US](/05.%20Capstone%20Project/images/Optimal_skills_no_group.png)    
+![Most Optimal Skills for Data Analysts in the US](/Capstone%20Project/images/Optimal_skills_no_group.png)    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in SEA countries.*
 
 #### Insights:
@@ -345,7 +345,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in SEA countries with Coloring by Technology](/05.%20Capstone%20Project/images/Optimal_skills.png)  
+![Most Optimal Skills for Data Analysts in SEA countries with Coloring by Technology](/Capstone%20Project/images/Optimal_skills.png)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the SEA region with color labels for different types of technology.*
 
 #### Insights:
@@ -360,7 +360,7 @@ plt.show()
 
 
 
-View my notebook with detailed steps here: [05.06 Countries_Demand&Pay.ipynb](./05.06.%20Countries_Demand&Pay.ipynb).
+View my notebook with detailed steps here: [06. Countries_Demand&Pay.ipynb](./Capstone%20Project/06.%20Countries_Demand&Pay.ipynb).
 
 #### Visualize Data
 
@@ -411,7 +411,7 @@ fig.tight_layout()
 
 #### Results
 
-![Job Demand and Median Salary in SEA countries](/05.%20Capstone%20Project/images/SEA_countries_demand_pay.png)    
+![Job Demand and Median Salary in SEA countries](/Capstone%20Project/images/SEA_countries_demand_pay.png)    
 *Two bar charts visualizing the job demand in each SEA country and the median salary for data analysts across SEA countries.*
 
 #### Insights:
