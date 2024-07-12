@@ -213,7 +213,7 @@ plt.show()
 
 ### Highest Paid & Most Demanded Skills for Data Analysts
 
-Next, The analysis is narrowed down only on  Data Analyst roles. The objective of this section is to compare the highest-paid skills with the most in-demand skills, figuring out the kills that are simultaenously highly sought-after and well-paid
+Next, The analysis is narrowed down only on  Data Analyst roles. The objective of this section is to compare the highest-paid skills with the most in-demand skills, figuring out the kills that are simultaneously highly sought-after and well-paid
 
 #### Visualize Data
 
@@ -267,7 +267,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 
 #### Insights:
 
-- The top graph shows specialized technical skills like `Golang`, `Redshift`, and `kafka` are associated with higher salaries, some reaching up to $165K, suggesting that advanced technical proficiency such as progamming languages and cloud-computing technology can increase earning potential in the SEA region.
+- The top graph shows specialized technical skills like `Golang`, `Redshift`, and `kafka` are associated with higher salaries, some reaching up to $165K, suggesting that advanced technical proficiency such as programming languages and cloud-computing technology can increase earning potential in the SEA region.
 
 - The bottom graph highlights that foundational skills like `Excel`, `Tableau`, `SQL` and `Looker` are the most in-demand, even though they may not offer the highest salaries. While `spark` has dominantly outnumbered in terms of median salary but the ocurrence of this skill in job postings is only 8, much lower than other skills in the graph. This demonstrates the importance of developing these fundamental core skills for landing the very first entry-level data jobs.
 
@@ -425,7 +425,7 @@ fig.tight_layout()
 
 This project provided several general insights into the data job market in the SEA region for aspiring Data Analysts:
 
-- **Skill Demand and Salary Correlation**: There is no clear correlation between the demand for specific skills and the salaries these skills command. Advanced and specialized skills like `Spark` often lead to higher salaries but farily scarce in demand, while more common data analysis skills such as `Python`,`SQL`, `Excel`, `Tableau` are way more prevalent in job listings of the SEA region and the median salary is also really attractive considering the living standards in the SEA countries.
+- **Skill Demand and Salary Correlation**: There is no clear correlation between the demand for specific skills and the salaries these skills command. Advanced and specialized skills like `Spark` often lead to higher salaries but fairly scarce in demand, while more common data analysis skills such as `Python`, `SQL`, `Excel`, `Tableau` are way more prevalent in job listings of the SEA region and the median salary is also really attractive considering the living standards in the SEA countries.
 
 - **Market Trends**: There are changing trends in demand of different data skills, highlighting the dynamic nature of the data job market in SEA countries. Keeping up with these trends is essential for career growth in this industry
 
@@ -450,7 +450,7 @@ This project was not without its challenges, but it provided good learning oppor
 
 - **Data Inconsistencies**: Handling missing or inconsistent data entries requires careful consideration and thorough data-cleaning techniques to ensure the data integrity and data quality which cement the validity of the analysis.
 
-- **Complex Data Visualization**: Designing  visually-compelling representations of complex datasets using programming languae like Python was intuitively hard to execute but critical for conveying insights clearly and effectivly.
+- **Complex Data Visualization**: Designing  visually-compelling representations of complex datasets using programming languages like Python was intuitively hard to execute but critical for conveying insights clearly and effectively.
 
 - **Balancing Breadth and Depth**: Deciding how deeply to dive into each analysis while maintaining a broad overview of the data landscape required constant balancing to ensure comprehensive coverage without getting lost in details.
 
